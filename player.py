@@ -1,3 +1,5 @@
+# ici une petite modification pour tester le push
+
 from settings import *
 import pygame as pg
 import math
